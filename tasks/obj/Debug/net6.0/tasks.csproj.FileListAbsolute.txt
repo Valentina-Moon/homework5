@@ -1,0 +1,15 @@
+C:\Users\Tseh\Desktop\homework5\tasks\obj\Debug\net6.0\tasks.csproj.AssemblyReference.cache
+C:\Users\Tseh\Desktop\homework5\tasks\obj\Debug\net6.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tseh\Desktop\homework5\tasks\obj\Debug\net6.0\tasks.AssemblyInfoInputs.cache
+C:\Users\Tseh\Desktop\homework5\tasks\obj\Debug\net6.0\tasks.AssemblyInfo.cs
+C:\Users\Tseh\Desktop\homework5\tasks\obj\Debug\net6.0\tasks.csproj.CoreCompileInputs.cache
+C:\Users\Tseh\Desktop\homework5\tasks\bin\Debug\net6.0\tasks.exe
+C:\Users\Tseh\Desktop\homework5\tasks\bin\Debug\net6.0\tasks.deps.json
+C:\Users\Tseh\Desktop\homework5\tasks\bin\Debug\net6.0\tasks.runtimeconfig.json
+C:\Users\Tseh\Desktop\homework5\tasks\bin\Debug\net6.0\tasks.dll
+C:\Users\Tseh\Desktop\homework5\tasks\bin\Debug\net6.0\tasks.pdb
+C:\Users\Tseh\Desktop\homework5\tasks\obj\Debug\net6.0\tasks.dll
+C:\Users\Tseh\Desktop\homework5\tasks\obj\Debug\net6.0\refint\tasks.dll
+C:\Users\Tseh\Desktop\homework5\tasks\obj\Debug\net6.0\tasks.pdb
+C:\Users\Tseh\Desktop\homework5\tasks\obj\Debug\net6.0\tasks.genruntimeconfig.cache
+C:\Users\Tseh\Desktop\homework5\tasks\obj\Debug\net6.0\ref\tasks.dll
